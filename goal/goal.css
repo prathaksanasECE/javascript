@@ -1,0 +1,17 @@
+h1{
+    color:burlywood;
+    background-color:rgb(61, 123, 138);
+    height:60px;
+    padding-top: 20px;
+   text-align: center;
+}
+li{
+    color: darkred;
+    background-color: rgb(76, 237, 138);
+    padding:10px 30px;
+    width:20%;
+    height:15%
+}
+body{
+    background-image:url(https://thumbs.dreamstime.com/z/goal-setting-business-resolution-concept-single-word-quote-printed-wooden-blocks-light-green-background-copy-180354450.jpg);
+}
